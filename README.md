@@ -9,3 +9,8 @@
 ## Rebase branch created
 
 * Created a new branch names rebase
+
+
+## Squash feature
+
+* Creating 1st commit
